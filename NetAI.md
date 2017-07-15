@@ -1,5 +1,4 @@
-# Project Title
-NetAI
+## NetAI
 
 
 ## Abstract / Purpose 
