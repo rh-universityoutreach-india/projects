@@ -33,8 +33,8 @@ Username/Repository# and issue or pull request number | #
 
 
 #### Are you willing to be the mentor to this problem statement *Technically* or *Non-Technically* ?
-Yes | NO 
-Technically | Non-Technically | Both
+- Yes | NO 
+- Technically | Non-Technically | Both
 
 
 
