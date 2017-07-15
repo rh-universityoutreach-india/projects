@@ -16,7 +16,7 @@
 
 
 ### Tools & Technology
-- [] Python
+- [ ] Python
 
 
 
