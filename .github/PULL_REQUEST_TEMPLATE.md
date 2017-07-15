@@ -25,7 +25,7 @@
 - [ ] Documentation
 
 
-Rereference | Links
+Reference | Links
 ------ | ------
 example | [link]()
 Username/Repository# and issue or pull request number | #
@@ -40,13 +40,4 @@ Username/Repository# and issue or pull request number | #
 
 #### Github User Id:
 @mentions
-
-
-
-
-
-
-
-
-
 
