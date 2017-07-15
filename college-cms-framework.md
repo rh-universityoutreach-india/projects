@@ -19,7 +19,7 @@ social networking features. The plugins can be used very effectively for customi
 ### Tools & Technology
 - [+] Python
 - [+] Django
-- [+] templating libraries and UI frameworks(Angular/React) or just Bootstgrap
+- [+] templating libraries and UI frameworks(Angular/React) or just bootstrap
 
 
 ### Todos
