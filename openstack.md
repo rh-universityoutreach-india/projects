@@ -1,43 +1,26 @@
-# Project Title
+Getting to know OpenStack
 
-
-## Abstract / Purpose 
-
-
-
-### Description
-
-
+OpenStack is open source cloud.
 
 ### Prior knowledge required
 - [ ] Basic understanding of Python
-- [ ] REST API
-
-
+- [ ] Knowledge of cloud computing would be a plus
 
 ### Tools & Technology
 - [ ] Python
-
-
 
 ### Todos
 - [ ] Tests
 - [ ] Documentation
 
-
 Reference | Links
 ------ | ------
-example | [link]()
-Username/Repository# and issue or pull request number | #
-
-
+https://www.openstack.org/
 
 #### Are you willing to be the mentor to this problem statement *Technically* or *Non-Technically* ?
-- Yes | No
-- Technically | Non-Technically | Both
-
-
+- Yes
+- Both
 
 #### Github User Id:
-@mentions
+@Jaanki
 
