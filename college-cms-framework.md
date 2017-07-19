@@ -11,20 +11,20 @@ social networking features. The plugins can be used very effectively for customi
 
 
 ### Prior knowledge required
-- [+] Basic understanding of Python
-- [+] REST API
+- [x] Basic understanding of Python
+- [x] REST API
 
 
 
 ### Tools & Technology
-- [+] Python
-- [+] Django
-- [+] templating libraries and UI frameworks(Angular/React) or just bootstrap
+- [x] Python
+- [x] Django
+- [x] templating libraries and UI frameworks(Angular/React) or just bootstrap
 
 
 ### Todos
-- [+] Tests
-- [+] Documentation
+- [x] Tests
+- [x] Documentation
 
 
 Reference | Links
