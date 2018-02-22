@@ -1,0 +1,42 @@
+# Project Title
+Newbie Hands-on
+
+## Abstract / Purpose 
+To make learning fun and act as a platform to help new students to get the basic understanding of the programming languages and 
+technologies.
+
+### Description
+Here we can create small tutorials for beginers of many programming language and technology. The difference will be that students 
+will have to read and do some hands to unlock the next level of the tutorial. We will prepare students to get basic understanding 
+of the new programming language and technology. For starting up we can create 5 to 10 Level programming games.
+
+
+### Prior knowledge required
+- [X] Basic understanding of Computers
+
+### Tools & Technology
+- [X] Python
+- [X] Django
+- [X] Mysql
+
+### Todos
+- [X] Create a backend to add tutorials
+- [X] Basic UI using Bootstrap for frontend
+- [X] Documentation
+
+
+Reference | Links
+------ | ------
+example | https://codecombat.com/ (This is bit of a advanced level thing, we can do it for absolute newbies)
+
+
+
+#### Are you willing to be the mentor to this problem statement *Technically* or *Non-Technically* ?
+- Yes
+- Technically | Non-Technically 
+
+
+
+#### Github User Id:anurag03
+@anurag03
+
