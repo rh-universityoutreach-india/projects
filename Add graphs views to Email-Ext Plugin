@@ -1,0 +1,48 @@
+# Project Title
+Add graphs views to Email-Ext Plugin
+
+## Abstract / Purpose 
+Email-Ext plugin has scripts to send customised email with tabular reports. It could be customized further to add graphs to add bussiness value. 
+https://github.com/jenkinsci/email-ext-plugin
+
+
+### Description
+Admin should be able to select graphs for reporting with their email feature.
+Pie Charts
+Bar Graphs
+Line Graphs
+
+
+### Prior knowledge required
+- [ ] Basic understanding of Java and jelly script
+- [ ] Rest/API
+
+
+
+### Tools & Technology
+- [ ] Java
+
+
+
+### Todos
+- [ ] Tests
+- [ ] Documentation
+
+
+Rereference | Links
+------ | ------
+example | [link]()
+Username/Repository# and issue or pull request number | # 
+https://github.com/jenkinsci/email-ext-plugin
+
+
+#### Are you willing to be the mentor to this problem statement *Technically* or *Non-Technically* ?
+- Yes
+- Technically and Non-Technically
+
+
+
+#### Github User Id:
+@rchavhan
+
+
